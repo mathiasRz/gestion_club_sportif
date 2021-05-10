@@ -1,9 +1,0 @@
-(1,'Ambiqué','Al','2020-08-16',NULL),(1,'Ambiqué','Al','2021-03-11',NULL),(1,'Ambiqué','Al','2020-08-30',NULL),(1,'Ambiqué','Al','2020-09-06',NULL),
-(1,'Ambiqué','Al','2020-09-13',NULL),(1,'Ambiqué','Al','2020-09-20',NULL),(1,'Ambiqué','Al','2020-09-27',NULL),(1,'Ambiqué','Al','2020-10-04',NULL),
-(1,'Ambiqué','Al','2020-10-11',NULL),(1,'Ambiqué','Al','2020-10-18',NULL),(1,'Ambiqué','Al','2020-10-25',NULL),(1,'Ambiqué','Al','2020-12-06',NULL),
-(1,'Ambiqué','Al','2020-11-15',NULL),(1,'Ambiqué','Al','2020-11-22',NULL),(1,'Ambiqué','Al','2020-11-29',NULL),(1,'Ambiqué','Al','2020-12-06',NULL),
-(1,'Ambiqué','Al','2020-12-13',NULL),(1,'Ambiqué','Al','2021-01-17',NULL),(1,'Ambiqué','Al','2021-02-21',NULL),(1,'Ambiqué','Al','2021-01-31',NULL),
-(1,'Ambiqué','Al','2021-02-07',NULL),(1,'Ambiqué','Al','2021-02-14',NULL),(1,'Ambiqué','Al','2021-03-11',NULL),(1,'Ambiqué','Al','2021-03-14',NULL),
-(1,'Ambiqué','Al','2021-03-21',NULL),
-
-
